@@ -1,5 +1,3 @@
-# monitoriamento-go
-
 <h1>***Programa para monitoriamento de sites em Go lang. *** </h1>
 
 No "sitesaqui.txt" coloque os sites em "https://.." que você deseja monitorar.
